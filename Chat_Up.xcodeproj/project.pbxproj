@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE01C66626BF36CD0096C334 /* Version_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE01C66526BF36CD0096C334 /* Version_2.swift */; };
 		DE85F8F626BC8D29005E5677 /* Data_Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE85F8F526BC8D29005E5677 /* Data_Base.swift */; };
 		DE85F8F826BC8D4C005E5677 /* Interface.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE85F8F726BC8D4C005E5677 /* Interface.swift */; };
 		DE85F8FA26BC8D69005E5677 /* Login_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE85F8F926BC8D69005E5677 /* Login_VC.swift */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE01C66526BF36CD0096C334 /* Version_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Version_2.swift; sourceTree = "<group>"; };
 		DE85F8F526BC8D29005E5677 /* Data_Base.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data_Base.swift; sourceTree = "<group>"; };
 		DE85F8F726BC8D4C005E5677 /* Interface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interface.swift; sourceTree = "<group>"; };
 		DE85F8F926BC8D69005E5677 /* Login_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login_VC.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				DE85F8F526BC8D29005E5677 /* Data_Base.swift */,
 				DE85F8FD26BC8E11005E5677 /* Control_VC.swift */,
 				DE85F90126BCBC1F005E5677 /* Extension.swift */,
+				DE01C66526BF36CD0096C334 /* Version_2.swift */,
 				DE85F8FF26BCB9FF005E5677 /* Detailed_Message_View.swift */,
 				DE85F8FB26BC8DC6005E5677 /* testing_vc.swift */,
 				DE85F8F926BC8D69005E5677 /* Login_VC.swift */,
@@ -288,6 +291,7 @@
 				DE85F8FE26BC8E11005E5677 /* Control_VC.swift in Sources */,
 				DE85F8FC26BC8DC6005E5677 /* testing_vc.swift in Sources */,
 				DE85F8F626BC8D29005E5677 /* Data_Base.swift in Sources */,
+				DE01C66626BF36CD0096C334 /* Version_2.swift in Sources */,
 				DE92E06B26BBAE2F00DBCC85 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
